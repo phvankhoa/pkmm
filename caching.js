@@ -38,4 +38,4 @@ const Caching = Object.freeze({
     setPostList,
     setPost
 });
-export {Caching};
+export default Caching;
